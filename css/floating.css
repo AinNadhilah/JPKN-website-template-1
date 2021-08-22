@@ -1,0 +1,46 @@
+.icons {
+    position:fixed;
+    top:65%;
+    left:0;  
+    z-index:100;    
+}
+  
+.icons ul {
+    list-style:none;
+    padding:initial;
+    
+}
+  
+  .icons ul li {
+    height:50px;
+    width:50px;
+    padding-left:20px;
+    padding-top:12px;
+    margin-top:5px;
+    color:white;
+}
+  
+  .icons ul li:hover {
+    padding-left:32px;
+    transition:0.5s;
+    width:90px;
+}
+  
+
+
+  
+  .facebook {
+    background-color: #4267b2;
+}
+  .youtube{
+    background-color: #FF0000;
+}
+  .twitter{
+    background-color: #38A1F3;
+}
+.home {
+  top: -145%;
+  position: absolute;
+      
+}
+
